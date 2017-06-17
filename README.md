@@ -32,3 +32,6 @@
 ## http://sourcemaking.com 
 ## 维基百科  https://en.m.wikipedia.org/wiki/Software_design_pattern
 
+### 自勉
+与其陷入各种模式的禁锢之中,不如随机应变.
+
