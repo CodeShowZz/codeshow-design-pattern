@@ -1,5 +1,10 @@
 package headfirst.designpatterns.observer.weatherobservable;
 
+import headfirst.designpatterns.observer.weatherobservable.observer.CurrentConditionsDisplay;
+import headfirst.designpatterns.observer.weatherobservable.observer.ForecastDisplay;
+import headfirst.designpatterns.observer.weatherobservable.observer.StatisticsDisplay;
+import headfirst.designpatterns.observer.weatherobservable.subject.WeatherData;
+
 public class WeatherStation {
 
 	public static void main(String[] args) {
