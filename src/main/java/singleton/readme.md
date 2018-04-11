@@ -1,1 +1,1 @@
-Please see the Singleton class first,to know what is the singleton design pattern.
+> Please see the Singleton class first,to know what is the singleton design pattern.

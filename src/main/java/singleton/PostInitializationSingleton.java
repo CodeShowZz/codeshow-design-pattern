@@ -16,7 +16,7 @@ public class PostInitializationSingleton {
 
     }
 
-    public static synchronized PostInitializationSingleton getInstance() {
+    public static PostInitializationSingleton getInstance() {
         return uniqueInstance;
     }
 }
