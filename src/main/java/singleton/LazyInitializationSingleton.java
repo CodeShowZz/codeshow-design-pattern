@@ -16,7 +16,7 @@ public class LazyInitializationSingleton {
 
     }
 
-    public static synchronized LazyInitializationSingleton getInstance() {
+    public static  LazyInitializationSingleton getInstance() {
         if (uniqueInstance == null) {
             synchronized (LazyInitializationSingleton.class) {
                 if (uniqueInstance == null) {
