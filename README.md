@@ -1,9 +1,10 @@
-# code show about design pattern 
-This is a repository about write code to express design pattern.
+# 设计模式之Java实现
 
-## my thingking about design pattern
-Many Java frameworks use a large number of design patterns. In my opinion, design patterns are just a code pattern, and the best way to learn design patterns is to express them in code.
+# 介绍
+- 设计模式是形式化的最佳实践，程序员可以使用它来解决设计应用程序或系统时遇到的常见问题。
+- 设计模式可以通过提供经过测试的、经过验证的开发范例来加速开发过程。
+- 重用设计模式有助于防止可能导致重大问题的细微问题，还可以提高熟悉模式的编码器和架构师的代码可读性。
 
-## design pattern List
+## 入门
 
-- singleton 
+参考链接:https://github.com/iluwatar/java-design-patterns
